@@ -1,0 +1,48 @@
+body{
+   background-color: #191919;
+   color: #fff;
+   font-family: 'Patrick Hand', cursive
+}
+.poster {
+    background-size: cover;
+    background-position: top center;
+    min-height: 600px;
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: 50px;
+    position: relative;
+}
+.youtube-container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+
+.search{
+    border:1px solid darkslategrey;
+    outline: transparent;
+    background-color: transparent;
+    padding: 5px 10px;
+    border-radius: 25px;
+    color: white;
+}
+.submit-search{
+    margin-left: 1.1rem;
+    margin-bottom: 7px;
+    border-radius: 25px;
+}
+.sin{
+    float: right;
+    margin-left: 1.1rem;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 10rem;
+
+}
+.play-video{
+    background-color: #191919;
+    border-radius: 30px;
+    color: #fff;
+}
